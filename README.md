@@ -7,9 +7,8 @@ This repository contains the database schema and SQL scripts for a music streami
 - Subscriptions & Payments System
 - Many-to-Many Relationships (e.g., Tracks in Playlists)
 
-## 🗄️ Relationship Schema
+## Relationship Schema
 ![Screenshot (25)](https://github.com/user-attachments/assets/2167487e-dd78-420c-b812-33ef39949778)
-
 
 ## Technical Used
 - **Database**: SQL
