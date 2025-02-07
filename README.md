@@ -12,4 +12,4 @@ This repository contains the database schema and SQL scripts for a music streami
 
 
 ## Technical Used
-- ** Database**: SQL
+- **Database**: SQL
